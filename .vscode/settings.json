@@ -1,0 +1,5 @@
+{
+    "[css]": {
+        "prettier.proseWrap": "never"
+    }
+}
